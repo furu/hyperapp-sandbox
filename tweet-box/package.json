@@ -1,0 +1,18 @@
+{
+  "name": "hyperapp-tweet-box",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "hyperapp": "^1.2.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.75.0",
+    "hyperapp-devtools": "^0.3.0",
+    "prettier": "1.13.7"
+  }
+}
